@@ -38,7 +38,7 @@ offering_links:
     url: /lectures/
     description: "Lecture slides and notes"
   - title: Exam
-    url: /exams/
+    url: /exam/
     description: "Exams"
   - title: Calendar
     url: /info/calendar/

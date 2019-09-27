@@ -13,16 +13,15 @@
   animation: prominent 500ms infinite alternate;
 }
 </style>
-<h1><a id="lec-slides-link" href="https://drive.google.com/drive/folders/1zP7YNmZXCYnAP8MrEiaf1Ov28ESpXR0s?usp=sharing" target="_blank">Link to Lecture Slides</a></h1>
 
-<h2 id="lec">Lecture Notes:</h2>
+
 <table class="asn_table">
 
 <tr>
   <th class="asn_desc" >lecture date</th>
   <th class="asn_num"  >notes</th>
   <th class="asn_ready">ready?</th>
-  <th class="asn_desc" >description</th>
+  <th class="asn_desc" >description {% if lect.slides %}&nbsp;(<a href="{{lect.slides|relative_url}}">slides</a>){% endif%}{% if lect.annotatedready %}&nbsp;(<a href="{{lect.annotatedpdfurl|relative_url}}">annotated slides</a>){% endif%}</th>
   <th class="asn_reading" >reading</th>
 </tr>
 
@@ -32,7 +31,7 @@
   <td class="lect_num" >{{lect.lecture_date}}</td>
   <td class="lect_num" ><a href="{{lect.url | relative_url }}">{{ lect.num }}</a></td>
   <td class="lect_ready">{{lect.ready}}</td>
-  <td class="lect_desc" >{{lect.desc }}</td>
+  <td class="lect_desc" >{{lect.desc }}{% if lect.slides %}&nbsp;(<a href="{{lect.slides|relative_url}}">slides</a>){% endif%}{% if lect.annotatedready %}&nbsp;(<a href="{{lect.annotatedpdfurl|relative_url}}">annotated slides</a>){% endif%}</td>
   <td class="lect_desc" >{{lect.reading }}</td>
 </tr>
 
