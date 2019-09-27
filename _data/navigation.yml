@@ -63,7 +63,7 @@ offering_links:
          url: https://gradescope.com
          description: "HW and Lab Grades"
        - title: Piazza
-         url: https://piazza.com
+         url: https://piazza.com/configure-classes/fall2019/cs16f19mirza
          description: "Q&A Forum"
   - title: Github
     dropdown:
