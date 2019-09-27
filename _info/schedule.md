@@ -16,7 +16,16 @@ Please check for updates on our Google calendar on a daily basis. Instructor off
 ## Instructor office hours: 
 * Wednesdays 10 am - noon, will begin on Oct 8, HFH 1155
 
-TA/tutor office hours: Coming soon.
+## TA office hours: 
+
+* Tuesday    10:00 am – 12:00 pm         - Harmeet
+* Wednesday  10:00 am – 12:00 pm         - Dara
+* Thursday   10:00 am – 12:00 pm         - Yang
+* Friday     10:00 am – 12:00 pm         - Ishtiyaque
+
+ 
+
+Location- TA Trailer No. 968 (close to HFH)
 
 
 
