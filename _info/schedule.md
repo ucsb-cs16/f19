@@ -11,10 +11,9 @@ layout: default
 
 ## Schedule of office hours
 
-Please check for updates on our Google calendar on a daily basis. Instructor office hours will be in HFH 1155. All other TA/tutor office hours will be in Phelps 3525/3526
-
 ## Instructor office hours: 
-* Wednesdays 10 am - noon, will begin on Oct 8, HFH 1155
+* Wednesdays 10 am - noon, will begin on Oct 8
+* Location: HFH 1155
 
 ## TA office hours: 
 
@@ -23,9 +22,10 @@ Please check for updates on our Google calendar on a daily basis. Instructor off
 * Thursday   10:00 am – 12:00 pm         - Yang
 * Friday     10:00 am – 12:00 pm         - Ishtiyaque
 
- 
 
 Location- TA Trailer No. 968 (close to HFH)
 
+## Tutor Open lab hours (group office hours)
+* Coming soon
 
 
