@@ -4,7 +4,7 @@ title: "CS16, F19, Mirza"
 
 ## {{site.course}} {{site.quarter}}
 
-All announcements will be posted on Piazza. Sign up [using this link](https://piazza.com/configure-classes/fall2019/cs16f19mirza).
+All announcements will be posted on Piazza [at this link](https://piazza.com/configure-classes/fall2019/cs16f19mirza).
 
 {% include collapse-button.html label="Information" id="info-list" %}
 

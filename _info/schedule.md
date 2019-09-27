@@ -13,6 +13,10 @@ layout: default
 
 Please check for updates on our Google calendar on a daily basis. Instructor office hours will be in HFH 1155. All other TA/tutor office hours will be in Phelps 3525/3526
 
-<iframe src=""></iframe>
+## Instructor office hours: 
+* Wednesdays 10 am - noon, will begin on Oct 8, HFH 1155
+
+TA/tutor office hours: Coming soon.
+
 
 

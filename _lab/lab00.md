@@ -1,7 +1,7 @@
 ---
-assigned: 2019-06-26 00:00
+assigned: 2019-10-01 00:00
 desc: Getting started
-due: 2019-07-02 23:59
+due: 2019-10-07 23:59
 layout: lab
 num: lab00
 ready: true
@@ -16,7 +16,7 @@ Your first lab for this week is an introduction to programming on CSIL and the t
 * Help us get to know you 
 * Learn about some of the tools you will be using in this class (gradescope and github)
 
-This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with a programming partner.
+## This lab must be completed INDIVIDUALLY. 
 
 # Get setup with the tools for this course
 
@@ -38,15 +38,15 @@ To join this organization, you need to do the following:
 
 2. If you don't already have your **@umail.ucsb.edu** email address associated with your github.com account. It's important that it's your @umail.ucsb.edu and not your @ucsb.edu—the sign up tool won't work otherwise. Go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-M19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
+3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-F19), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
 
-4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-m19>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-m19> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
+4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-mirza>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-mirza> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
 ## Get setup with gradescope
 
 We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope. **If you weren't invited to gradescope for some reason, give your TA your name, email and perm number, and they can manually add you to the class.**
 
-Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Summer 2019 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
+Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): {{site.title}}, {{site.quarter}} and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
 
 # Implement and submit a simple C++ program 
 
@@ -399,7 +399,7 @@ If you encounter an error, use the compiler hints and examine the line in questi
 Once you are satisfied that your program is correct, then it's time to submit it.
 
 
-Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Summer 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. For now choose the first option and follow the steps to upload hello.cpp to gradescope. We will use the second method later on in the course.
+Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site. Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. For now choose the first option and follow the steps to upload hello.cpp to gradescope. We will use the second method later on in the course.
 
 You should receive 50/50 for a correct "Hello World " program
 
