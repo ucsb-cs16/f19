@@ -23,7 +23,7 @@ layout: default
 * Friday     10:00 am – 12:00 pm         - Ishtiyaque
 
 
-Location- TA Trailer No. 968 (close to HFH)
+Location- TA Trailer No. 936 (next to Phelps)
 
 ## Tutor Open lab hours (group office hours)
 * Coming soon
