@@ -17,7 +17,7 @@ layout: default
 
 ## TA office hours: 
 
-* Tuesday    10:00 am – 12:00 pm         - Harmeet
+* Monday     01:00 pm – 03:00 pm         - Harmeet
 * Wednesday  10:00 am – 12:00 pm         - Dara
 * Thursday   10:00 am – 12:00 pm         - Yang
 * Friday     10:00 am – 12:00 pm         - Ishtiyaque
