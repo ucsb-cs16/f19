@@ -30,6 +30,6 @@ Location- TA Trailer No. 936 (next to Phelps)
 
 ## Tutor Open lab hours (group office hours)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkxkaJqWiDodK7H7mYLgHqWjeOKTvs4xEXZA-SHpcDS2pWXhyo78H_QZ4g7f9AHI39H4SDEmTXj_Gg/pubhtml?gid=4015272&amp;single=true&amp;widget=true&amp;headers=false" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkxkaJqWiDodK7H7mYLgHqWjeOKTvs4xEXZA-SHpcDS2pWXhyo78H_QZ4g7f9AHI39H4SDEmTXj_Gg/pubhtml?gid=4015272&amp;single=true&amp;widget=true&amp;headers=false" style="border-width:0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 
 

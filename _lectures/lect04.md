@@ -2,7 +2,7 @@
 annotatedpdfurl: /lectures/CS16_Lecture4_ann.pdf
 annotatedready: false
 desc: Repetition with loops
-lecture_date: 2019-07-09
+lecture_date: 2019-10-08
 num: Lecture 4
 slides: /lectures/CS16_Lecture4.pdf
 ready: true
