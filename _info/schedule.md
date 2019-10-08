@@ -15,7 +15,7 @@ layout: default
 * Wednesdays 10a - 11a in HFH 1155
 * Fridays 3p - 4p in HFH 1155
 
-
+Or by appointment
 
 ## TA office hours: 
 
