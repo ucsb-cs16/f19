@@ -27,7 +27,7 @@ lab_times: "T: 2p, 3p, 4p, 5p; Wed: 1p, 2p, 3p, 4; "
 instructor: "Diba Mirza"
 lecture_times: "TR 12:30pm-1:45pm"
 lecture_location: "Embarcadero Hall"
-
+github_org: ucsb-cs16-mirza
 
 start_week: 0
 start_date: 2019-09-22 
