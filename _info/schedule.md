@@ -12,7 +12,6 @@ layout: default
 
 
 ## Instructor office hours: 
-* Tuesdays 2p - 3p in Phelps 3526 
 * Wednesdays 10a - 11a in HFH 1155
 * Fridays 3p - 4p in HFH 1155
 
