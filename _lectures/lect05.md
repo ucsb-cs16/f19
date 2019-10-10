@@ -4,7 +4,7 @@ annotatedready: false
 num: Lecture 5
 desc: "Functions, C++ Memory Model"
 ready: true
-pdfurl: /lectures/CS16_Lecture5.pdf
+slides: /lectures/CS16_Lecture5.pdf
 lecture_date: 2018-10-11 
 ---
 
