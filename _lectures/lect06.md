@@ -28,8 +28,9 @@ lecture_date: 2019-10-15
 * Header guards
 
 
-* Automate the compilation of code using makefiles
+## Automate the compilation of code using makefiles
 
+* Refer to Professor Wang's detailed notes on makefiles: [https://ucsb-cs32.github.io/f19/lectures/lect01/](https://ucsb-cs32.github.io/f19/lectures/lect01/)
 
 ## Test driven development
 
