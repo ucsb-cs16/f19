@@ -94,7 +94,7 @@ cd lab02_alily_jgaucho
 * Copy the starter code by typing the following command:
 
 ```
-cp /cs/student/dimirza/cs16/labs/lab02/* ./
+cp /cs/faculty/dimirza/cs16/labs/lab02/* ./
 ```
 
 You should see the following files:
