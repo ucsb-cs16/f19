@@ -1,7 +1,7 @@
 ---
-assigned: 2019-07-10 00:00
+assigned: 2019-10-15 00:00
 desc: 'ASCII Art: Logical operators, integrating github into your workflow'
-due: 2019-07-16 23:59
+due: 2019-10-22 23:59
 layout: lab
 num: lab02
 ready: true
@@ -65,7 +65,7 @@ Below are the links to different sections of the lab:
 
 ## Step 1b: Create a new repo, add your partner as collaborator (if applicable) and clone the git repo that contains the starter code
 
-* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs16-m19 and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab02_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
+* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: {{site.github_org}} and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab02_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
 
 * The pilot should add the navigator as a collaborator on github. To do this navigate to the git repo you just created. Choose the settings tab. Then click on the 'Collaborators and teams' option on the left. Scroll all the way down and add the navigator's github account. Then press on the 'Add collaborator' button. Now you and the navigator share the ownership of your git repo. You won't work with your new repo until the end of the lab.
 
@@ -78,10 +78,10 @@ Below are the links to different sections of the lab:
 cd ~/cs16
 ```
 
-* Using the web-browser, navigate to your newly created repo on github. Find the address of your git repo. Click on the green "clone or download button". If your git repo was named lab02_alily_jgaucho, then the git address should something like: "git@github.com:ucsb-cs16-m19/lab02_alily_jgaucho.git". Now clone your repo into your csil account by typing the following on the terminal, replacing the last argument with the address of your git repo
+* Using the web-browser, navigate to your newly created repo on github. Find the address of your git repo. Click on the green "clone or download button". If your git repo was named lab02_alily_jgaucho, then the git address should something like: "git@github.com:{{site.github_org}}/lab02_alily_jgaucho.git". Now clone your repo into your csil account by typing the following on the terminal, replacing the last argument with the address of your git repo
 
 ```
-git clone git@github.com:ucsb-cs16-m19/lab02_alily_jgaucho.git
+git clone git@github.com:{{site.github_org}}/lab02_alily_jgaucho.git
 ```
 
 * Type ls to see your new git repo directory and change into that directory
@@ -94,7 +94,7 @@ cd lab02_alily_jgaucho
 * Copy the starter code by typing the following command:
 
 ```
-cp /cs/student/lawtonnichols/cs16/labs/lab02/* ./
+cp /cs/student/dimirza/cs16/labs/lab02/* ./
 ```
 
 You should see the following files:
@@ -170,7 +170,8 @@ The following table shows various calls to this function, along with what the st
 
 The rule is that the L should have width at least 2, and height at least 2, otherwise the result is an empty string, and printing an empty string results in no output.
 
-![starL](/m19-nichols/lab/lab02/starL.png){:height="400px"}
+
+![starL](starL.png){:height="400px"}
 
 
 So, this is a fairly easy function to write. This will do the job, and is provided for you as an example of how functions like this should be written.
@@ -185,20 +186,21 @@ What you'll be doing in this lab is writing three similar functions: startT, sta
 
 *Sample values returned from starT*
 
-![starT](/m19-nichols/lab/lab02/starT.png){:height="400px"}
+
+![starT](starT.png){:height="400px"}
 
 *Sample values returned from starC*
 
 starC renders the letters C, but requires a minimum width of 2, and a minimum height of 3.  Otherwise it returns an empty string.
 
-![starC](/m19-nichols/lab/lab02/starC.png){:height="400px"}
+![starC](starC.png){:height="400px"}
 
 
 *Sample values returned from starZ*
 
 starZ renders the letters Z, but requires a minimum width of 3.   It only takes one parameter, because the height and width are always assumed to be equal.
 
-![starZ](/m19-nichols/lab/lab02/starZ.png){:height="400px"}
+![starZ](starZ.png){:height="400px"}
 
 # Step by Step Instructions <a name="stepbystep"></a>
 
