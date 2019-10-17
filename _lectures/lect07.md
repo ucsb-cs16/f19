@@ -1,7 +1,7 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture7_ann.pdf
 annotatedready: false
-num: Lecture7
+num: Lecture 7
 desc: "Data Representation "
 ready: true
 slides: /lectures/CS16_Lecture7.pdf
