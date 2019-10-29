@@ -1,11 +1,10 @@
 ---
-assigned: 2019-07-17 00:00
-desc: 'Counting ducks: File I/O and flow control'
-due: 2019-07-24 23:59
 layout: lab
 num: lab03
 ready: true
-
+desc: "Counting ducks: File I/O and flow control"
+assigned: 2019-10-29 09:00:00.00-7
+due: 2019-11-05 23:59:00.00-7
 ---
 
 
@@ -62,7 +61,7 @@ In lab02,  we have done the same thing. So if you don't know to how to do that, 
 Copy the skeleton to your local lab03 repo using the following command, <strong>REMEMBER</strong> to change the directory name in the commands below to your own directory's name, in this lab we simply use lab03_agaucho_alily as a example for your local git directory:
 
 ```
-  cp /cs/student/lawtonnichols/cs16/labs/lab03/* ~/cs16/lab03_agaucho_alily/
+  cp /cs/faculty/dimirza/cs16/labs/lab03/* ~/cs16/lab03_agaucho_alily/
 ```
 
 After doing this command, if you cd into ~/cs16/lab03_agaucho_alily/ and use the ls command, you should see several .cpp files:
@@ -86,7 +85,7 @@ In your lab03 directory, you should have a program called sample01.cpp that we c
 ```
 -bash-4.2$ cd ~/cs16/lab03_agaucho_alily/
 -bash-4.2$ pwd
-/cs/student/lawtonnichols/cs16/lab03_agaucho_alily/
+/cs/faculty/dimirza/cs16/lab03_agaucho_alily/
 -bash-4.2$
 ```
 
