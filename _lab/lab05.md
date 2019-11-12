@@ -1,11 +1,10 @@
 ---
-assigned: 2019-07-31 00:00
-desc: 'Fun with shapes: Pointers'
-due: 2019-08-06 23:59
 layout: lab
 num: lab05
 ready: true
-
+desc: "Fun with shapes: Pointers"
+assigned: 2019-11-11 09:00:00.00-8
+due: 2019-11-18 23:59:00.00-8
 ---
 <div markdown="1">
 
@@ -13,7 +12,6 @@ ready: true
 
 The goal of this lab is to demonstrate how we can abstract "things" in the world (such as geometric objects) into program contructs. We also hope that you will get a lot more practice with using pointers, passing pointers to functions and using pointers along with structs. You will continue to use the TDD process to develop high quality and well-tested code in a systematic manner. Lastly, we would like you to delve deep and have fun! When you run into problems with your code, remember to use the skills we have been learning in class, such as code tracing and drawing pointer diagrams, to understand the dynamics of your program and how it is interacting with memory (for now the run-time stack).
 
-### *Please submit your pointer diagram file to Gradescope along with your code.*
 
 # Step by Step Instructions
 
@@ -43,18 +41,18 @@ This step is similar to lab02, first clone your github repo in the ~/cs16/ direc
 Copy the code from your starter code directory to your local lab05 repo using the following command.
 
 ```
-  cp /cs/student/lawtonnichols/cs16/labs/lab05/* ~/cs16/lab05_agaucho_alily/
+  cp /cs/faculty/dimirza/cs16/labs/lab05/* ~/cs16/lab05_agaucho_alily/
 ```
 
 Typing the list (ls) command should show you the following files in your current directory
 
 ```
-[lawtonnichols@csil-03 lab05_agaucho_alily]$ ls
+[dimirza@csil-03 lab05_agaucho_alily]$ ls
 areaOfBoxTest.cpp         initBoxTest.cpp            pointToStringTest.cpp  shapeFuncs.h  utility.cpp
 areaOfBoxTest.cpp~        initPointTest.cpp          README.md              shapes.h      utility.h
 boxesApproxEqualTest.cpp  Makefile                   #shapeFuncs.cpp#       tddFuncs.cpp
 distanceBetweenTest.cpp   pointsApproxEqualTest.cpp  shapeFuncs.cpp         tddFuncs.h
-[lawtonnichols@csil-03 lab05_agaucho_alily]$
+[dimirza@csil-03 lab05_agaucho_alily]$
 ```
 
 
@@ -86,7 +84,7 @@ Here is a list of your tasks for this lab:
 * Looking at the test code in initPointTest.cpp figure out what the initPoint function is supposed to do and add preconditions and postconditions as comments to the start of that function. See page 275 of the book for more information on writing pre and post conditions.
 * Edit the initPoint function in shapeFuncs.cpp to replace the stub with correct code.
 * Run ./initPointTest and see it pass.
-* Now reason about why your code works. Do this by drawing a pointer diagram that shows the state of memory right before the initPoint function returns when it is called for the very first time by the test code. Your pointer diagram should show the value of member variables x and y of the struct object 'p1' in initPointTest.cpp as well as the relationship between 'p1' and the formal parameter 'p' of the function initPoint. You should also show the formal parameters xVal and yVal in memory and indicate whether or not they are colocated in memory with any other variables (such as x and y). Make the drawing on a piece of paper or as ascii art in a text file and **upload it to your git repo and gradescope** with the filename: pointer-diagram-initPoint. The diagram will be graded manually by us.
+* Now reason about why your code works. Do this by drawing a pointer diagram that shows the state of memory right before the initPoint function returns when it is called for the very first time by the test code. Your pointer diagram should show the value of member variables x and y of the struct object 'p1' in initPointTest.cpp as well as the relationship between 'p1' and the formal parameter 'p' of the function initPoint. You should also show the formal parameters xVal and yVal in memory and indicate whether or not they are colocated in memory with any other variables (such as x and y). Make the drawing on a piece of paper or as ascii art in a text file and upload it to your gitrepo with the filename: pointer-diagram-initPoint. The diagram will be graded manually by us.
 
 * Run ./boxesApproxEqualTest and see it fail.
 * Edit the boxesApproxEqual function in shapeFuncs.cpp to replace the stub with correct code.  As you do, consider adding an approxEqual function that takes two double values into utility.h and utility.cpp, as this will make your coding job easier, and keep you code "DRYer".  Also, consider reusing the pointsApproxEqual function in your boxesApproxEqual solution.  Remember that the <code>&amp;&amp;</code> operator is the symbol for "logical and" in C++.
@@ -240,11 +238,9 @@ This last point may or may not arise, but if it does, utility.h and utility.cpp 
 
 You will note that the gradescope score is worth 250 points. The grade will ultimately normalized to be out of 100 points. This lab is worth exactly the same as all the other labs done so far (i.e. the 250 points here are equivalent to 100 points in other labs).
 
-***Please submit your pointer diagram file to Gradescope along with your code.***
-
 ## Step 6: Done!
 
-Once your submission receives a score of 250/250, you are done with this assignment.
+Once your submission receives a score of 250/250, you are done with this assignment. Remember that we will check your code for appropriate comments, formatting, and the use of required code, as stated earlier, based on your github submission.
 
 If you are in the Phelps lab or in CSIL, make sure to log out of the machine before you leave. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.
 
