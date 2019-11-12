@@ -12,6 +12,8 @@ due: 2019-11-18 23:59:00.00-8
 
 The goal of this lab is to demonstrate how we can abstract "things" in the world (such as geometric objects) into program contructs. We also hope that you will get a lot more practice with using pointers, passing pointers to functions and using pointers along with structs. You will continue to use the TDD process to develop high quality and well-tested code in a systematic manner. Lastly, we would like you to delve deep and have fun! When you run into problems with your code, remember to use the skills we have been learning in class, such as code tracing and drawing pointer diagrams, to understand the dynamics of your program and how it is interacting with memory (for now the run-time stack).
 
+# Academic Honesty 
+All work submitted for this lab should be your own. If you are using any hints from a previous offering of this course that was posted publicly by a CS16 instructor, you must cite your source. 
 
 # Step by Step Instructions
 
