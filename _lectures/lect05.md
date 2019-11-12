@@ -1,6 +1,6 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture5_ann.pdf
-annotatedready: false
+annotatedready: true
 num: Lecture 5
 desc: "Functions, C++ Memory Model"
 ready: true

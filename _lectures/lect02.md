@@ -1,6 +1,6 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture2_ann.pdf
-annotatedready: false
+annotatedready: true
 desc: Basic I/O, Variable Types, Boolean Expressions, Control Flow and git
 lecture_date: 2019-10-01
 num: Lecture 2

@@ -1,6 +1,6 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture4_ann.pdf
-annotatedready: false
+annotatedready: true
 desc: Repetition with loops
 lecture_date: 2019-10-08
 num: Lecture 4

@@ -1,9 +1,10 @@
 ---
-annotatedready: false
+annotatedready: true
 num: Lecture 10
 desc: "References and Pointers, Call by value, address and reference"
 ready: true
 slides: /lectures/CS16_Lecture10.pdf
+annotatedpdfurl: /lectures/CS16_Lecture10_ann.pdf
 lecture_date: 2018-10-31
 ---
 

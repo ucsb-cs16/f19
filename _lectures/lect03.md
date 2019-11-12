@@ -1,6 +1,6 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture3_ann.pdf
-annotatedready: false
+annotatedready: true
 desc: Variables and types, expressions, control structures (if-else), input/output 
 lecture_date: 2019-10-03
 num: Lecture 3

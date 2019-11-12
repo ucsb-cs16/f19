@@ -1,9 +1,10 @@
 ---
-annotatedready: false
+annotatedready: true
 num: Lecture 11
 desc: "Defining custom types with structs, intro to lab05 "
 ready: true
 slides: /lectures/CS16_Lecture11.pdf
+annotatedpdfurl: /lectures/CS16_Lecture11_ann.pdf
 lecture_date: 2019-11-05
 ---
 

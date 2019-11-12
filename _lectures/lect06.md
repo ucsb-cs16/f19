@@ -1,6 +1,6 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture6_ann.pdf
-annotatedready: false
+annotatedready: true
 num: Lecture 6
 desc: "TDD, Automating compilation with Makefiles "
 ready: true
