@@ -10,19 +10,20 @@ lecture_date: 2019-11-14
 
 
 # Topics
-
+* Practice with small single-linked list
+* Intro to double-linked lists (define the types we will be working with in the upcoming classes LinkedList, Node)
+* Basic operations on double-linked lists: insert, delete, and iterating through the linked list
 * Problems with dynamic memory: memory leaks and dangling pointers
 * Dynamic memory pitfalls: memory leaks (how to avoid and detect (valgrind))
-* Intro to gdb
-* Practice with small linked list
-* To run your code in valgrind use the following command:
+* Detecting memory errors: Use valgrind
+
+- To run your code in valgrind use the following command:
 
 ```
 valgrind --leak-check=full <name of your executable>
 ```
 
-* Intro to double-linked lists (define the types we will be working with in the upcoming classes LinkedList, Node)
-* Basic operations on double-linked lists: insert, delete, and iterating through the linked list
+
 
 
 
