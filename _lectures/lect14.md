@@ -1,10 +1,10 @@
 ---
 num: Lecture 14
-desc: "Double-Linked Lists"
+desc: "Double-Linked Lists and Memory Errors"
 ready: true
 slides: /lectures/CS16_Lecture14.pdf
 annotatedpdfurl: /lectures/CS16_Lecture14_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2019-11-14 
 ---
 
