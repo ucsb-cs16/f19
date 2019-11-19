@@ -4,13 +4,20 @@ num: lab07
 ready: true
 desc: "Linked lists"
 assigned: 2019-11-19 09:00:00.00-8
-due: 2018-12-04 23:59:00.00-8
+due: 2018-11-26 23:59:00.00-8
 ---
 
 
 # Goals of this lab
 
 The goal of this lab is get more practice with iterating through linked lists and solving problems. Continue to practice code tracing to reason about your code. We request that you DO NOT ask the staff to debug your code. They have been specifically instructed not to debug for you, rather to guide in the process.
+
+You are also required to apply the style guidelines as described in this presentation: [link to style guide](https://docs.google.com/presentation/d/16ExuzjlRWClQe-GbX_FNYKsSJnrd0Z5ef7N1c0sezUA/edit?usp=sharing)
+
+If you are using a style different from what is recommended and feel strongly about continuing in that style, you may include a note as a comment in the README of your project explaining the rationale behind your choices. Cite any sources as relevant.
+
+If you are using any instructor written code or hints from a previous offering of this course, cite your source. Remember that code that is not written by you is in violation of the academic honesty for this class.
+
 
 # Step by Step Instructions: PLEASE READ CAREFULLY!
 
@@ -229,6 +236,8 @@ Most of the points will be awarded based on gradescope automatic grading. Other 
 3. Variable names choices are reasonable
 4. Code is reasonably "DRY" (as in "don't repeat yourself")&mdash;where appropriate, common code is factored out into functions
 5. Code is not unnecessarily or unreasonably complex when a simpler solution is available
+6. Other guidelines as discussed in the style guide for this class: [link to style guide](https://docs.google.com/presentation/d/16ExuzjlRWClQe-GbX_FNYKsSJnrd0Z5ef7N1c0sezUA/edit?usp=sharing)
+7. Fix any style issues (inconsistencies or other problems) in the starter code.
 
 ## An important word about academic honesty and the gradescope system
 
