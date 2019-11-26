@@ -16,7 +16,7 @@ This lab will have you do programming exercises with C strings, string class obj
 
 1. Decide if you are working alone, or working in a pair. Pair programming is OPTIONAL for this lab.
 
-2. If you are working as a pair, go to submit.cs, navigate to this lab page and create a team for you and your pair partner.  Choose who will be the first driver and who will start as navigator, and then remember to switch (at least once) during the lab.
+2. If you are working as a pair, remember to add your pair partner on gradescope.
 
 3. Go to github and create a git repo for this lab following the naming convention specified in previous labs (this step carries style points, see our feedback on previous labs to understand what we are looking for). If you are working with a partner only one of you needs to create the repo.
 
@@ -33,7 +33,6 @@ This lab will have you do programming exercises with C strings, string class obj
 
 Note: Remember to push your work to github at the end of EVERY work session. That way, both partners always have access to the latest version of the code even if the code is being developed on one partner's CoE account.
 
-**Note that we will cover recursion in class on Wednesday. If you are unfamiliar with this topic, please do not attempt this lab until after Wednesday's lecture. Instead use the lab time to continue to work on lab07 and understanding the problems that you have been asked to solve in this lab.**
 
 # Step 2: Getting the starter code and writing the programs
 
