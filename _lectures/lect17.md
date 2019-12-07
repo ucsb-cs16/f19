@@ -4,7 +4,7 @@ desc: "Wrap up and final review"
 ready: true
 slides: /lectures/CS16_Lecture17.pdf
 annotatedpdfurl: /lectures/CS16_Lecture17_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2019-12-05
 ---
 
